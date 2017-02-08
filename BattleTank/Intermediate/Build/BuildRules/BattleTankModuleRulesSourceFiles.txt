@@ -1,0 +1,3 @@
+/Users/florezarango/Documents/Development/Ureal/Section4/04_BattleTank/BattleTank/Source/BattleTank/BattleTank.Build.cs
+/Users/florezarango/Documents/Development/Ureal/Section4/04_BattleTank/BattleTank/Source/BattleTank.Target.cs
+/Users/florezarango/Documents/Development/Ureal/Section4/04_BattleTank/BattleTank/Source/BattleTankEditor.Target.cs
